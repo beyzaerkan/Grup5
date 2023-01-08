@@ -8,6 +8,27 @@ Veri.txt'deki veriler sırasıyla prosesin varış zamanı, öncelik, patlama za
 - B201210056 KEMAL AYDIN
 - B201210068 YASEMİN ÇELİK
 
+# Kurulum
+## Projeyi İndirme
+
+Projeyi lokalinize "Dispatcher" adıyla çekmek için:
+
+```bash
+git clone https://github.com/beyzaerkan/Dispatcher.git
+```
+
+Projenin içine girmek için:
+```bash
+cd Dispatcher
+```
+Jar dosyası ile çalıştırmak için 
+
+ > Proje JAVA 19 sürümü ile geliştirilmiştir. Jar dosyasını çalıştırabilmek için JAVA 19 sürümü gereklidir.
+
+```bash
+java -jar Dispatcher.jar [dosyaKonumu]
+```
+
 ## Katkıda Bulunanlar
 <a href = "https://github.com/beyzaerkan/Dispatcher/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=beyzaerkan/Dispatcher"/>
