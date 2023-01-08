@@ -11,7 +11,7 @@ Veri.txt'deki veriler sırasıyla prosesin varış zamanı, öncelik, patlama za
 # Kurulum
 ## Projeyi İndirme
 
-Projeyi lokalinize "Dispatcher" adıyla çekmek için:
+Projeyi lokalinize "Grup5" adıyla çekmek için:
 
 ```bash
 git clone https://github.com/beyzaerkan/Dispatcher.git
@@ -19,7 +19,7 @@ git clone https://github.com/beyzaerkan/Dispatcher.git
 
 Projenin içine girmek için:
 ```bash
-cd Dispatcher
+cd Grup5
 ```
 Jar dosyası ile çalıştırmak için 
 
